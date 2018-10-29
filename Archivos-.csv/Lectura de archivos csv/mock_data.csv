@@ -1,0 +1,11 @@
+id,nombre,apellido,sueldo,estado
+1,Fran,Dikles,$28830.00,true
+2,Nester,Josefsohn,$8428.94,true
+3,Maje,Alesio,$8960.85,false
+4,Vernice,Schild,$4297.85,true
+5,Florentia,Lerer,$12226.36,true
+6,Poppy,Roomes,$5114.54,false
+7,Anatol,Sewley,$21812.08,false
+8,Tallie,Gass,$14869.46,false
+9,Edwin,Foreman,$29940.27,true
+10,Leland,Pollicott,$4525.12,true
